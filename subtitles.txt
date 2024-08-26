@@ -1,0 +1,2 @@
+There is one module which will take some input and which 
+will produce some output and that output is become the input for the next module. So we are going to test the communication between these two models after combining these two. That is called integration testing. 
